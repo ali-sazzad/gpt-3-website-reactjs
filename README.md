@@ -4,7 +4,7 @@
 
 ## Overview
 
-This short project is a modern, one-page website built using HTML, CSS, and React.js. It was developed over the course of one week along with <a href='https://www.youtube.com/@javascriptmastery'> JavaScript Mastery </a> to showcase essential React skills. The design and layout are inspired by contemporary UI/UX principles, providing a clean and intuitive user experience. <a href='https://www.youtube.com/watch?v=F627pKNUCVQ&t=95s'> Original Full project video link </a>
+This short project is a modern, one-page website built using HTML, CSS, and React.js. It was developed over the course of one week to showcase essential React skills along with <a href='https://www.youtube.com/@javascriptmastery' target='_blank'> JavaScript Mastery </a>. The design and layout are inspired by contemporary UI/UX principles, providing a clean and intuitive user experience. <a href='https://www.youtube.com/watch?v=F627pKNUCVQ&t=95s' target='_blank'> Original Full project video link </a>
 
 ## Features
 
@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Special thanks to the React.js community for their resources and support.**
 
 ## Contact
-- **Name:** <a href='https://www.alisazzad.com/'> Portfolio </a>
-- **Email:** <a href='mailto:find.sazzadali@gmail.com'> Email </a>
-- **GitHub:** <a href='https://github.com/ali-sazzad/'> @ali-sazzad </a>
-- **LinkedIn:** <a href='https://www.linkedin.com/in/sazzadali/'> @sazzadali </a>
+- **Name:** <a href='https://www.alisazzad.com/' target='_blank'> Portfolio </a>
+- **Email:** <a href='mailto:find.sazzadali@gmail.com' target='_blank'> Email </a>
+- **GitHub:** <a href='https://github.com/ali-sazzad/' target='_blank'> @ali-sazzad </a>
+- **LinkedIn:** <a href='https://www.linkedin.com/in/sazzadali/' target='_blank'> @sazzadali </a>
